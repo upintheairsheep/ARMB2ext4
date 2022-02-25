@@ -10,4 +10,6 @@ Copyright: Copyleft, but please attrubute me if you can (i am not forcing you to
 
 I don't have a linux pc or a sample file, if you have a sample file make it an issue. If you have a Linux PC or a Mac tell me if the script succeded or failed. I just learned bach to make this script.
 
-I don't have a donation page yet. But I am sought after a .ipa of Gizmonauts and the source code or packages of the frogotten Cider/Cycaca Project.
+I don't have a donation page yet. But I am sought after a .ipa of Gizmonauts and the source code or packages of the frogotten Cider/Cycaca Project. 
+
+The only forensic software i know of that supports .ext4 files is Oxygen Forensic Detective, which you can import/open by clicking "ClockWorkMod Recovery Backup"
