@@ -1,4 +1,12 @@
 #!/bin/sh
+#
+#
+#
+#
+#
+#
+# Android Recovery Mode Backup to .ext4 converter by upintheairsheep
+# https://github.com/upintheairsheep/ARMB2ext4
 echo "Welcome! this script will allow you to convert backups made by Android's recovery mode on some devices to .ext4 format. Please specify the file name (w/ extension)"
 read file
 echo "What do you want the output file to be named (without the .ext4 extension)?
